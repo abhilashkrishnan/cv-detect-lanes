@@ -8,7 +8,7 @@ The first step is computing the values for the perspective correction. We can "W
 ![Original Image](sd2.jpg)
 
 ### Perspective Image
-![Perspective Image](persp_sd1.jpg)
+![Perspective Image](img_persp.png)
 
 ### Warped Image
 ![Warped Image](img_warp.png)
